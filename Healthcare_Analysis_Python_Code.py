@@ -1,4 +1,4 @@
-# Healthcare Data Insights - Example script
+# Healthcare Data Insights
 import pandas as pd
 
 df = pd.read_csv('../Datasets/diabetes_healthcare_dataset.csv')
